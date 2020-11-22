@@ -1,0 +1,5 @@
+    POSITION=3
+    YOFF=30
+    XOFF=-50
+    FIELDS=SSID,SECURITY,BARS
+    FONT="DejaVu Sans Mono 8"
