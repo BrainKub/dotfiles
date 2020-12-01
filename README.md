@@ -10,5 +10,5 @@
 - **WM** [i3-gaps (rounded)](https://aur.archlinux.org/packages/i3-gaps-rounded-git/)
 - **Launcher** Rofi
 - **Panel** polybar
-- **terminal** st
+- **terminal** [st (fork)](https://github.com/LukeSmithxyz/st)
 - **etc,etc.
