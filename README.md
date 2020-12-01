@@ -7,7 +7,7 @@
 
 ## Details
 - **Distro** Arch
-- **WM** i3-gaps
+- **WM** [i3-gaps (rounded)](https://aur.archlinux.org/packages/i3-gaps-rounded-git/)
 - **Launcher** Rofi
 - **Panel** polybar
 - **terminal** st
